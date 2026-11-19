@@ -1,3 +1,4 @@
+HARSH DATTATRAY MORE - EXP4
 # Exp-4-Mux-Demux
 # Design and Verification of 2:1 Multiplexer and 1:2 Demultiplexer
 ## Aim
@@ -84,6 +85,9 @@ The 2:1 Multiplexer and 1:2 Demultiplexer were realized using Verilog HDL:
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 
 ## Output
+
+<img width="1913" height="1017" alt="Screenshot 2026-11-19 120541" src="https://github.com/user-attachments/assets/f038d095-c568-497a-b585-d13b02eab93d" />
+
 
 
 ## Viva-Voce Questions
